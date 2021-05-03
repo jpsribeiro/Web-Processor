@@ -1,0 +1,4 @@
+C:\Users\joao.ribeiro\source\repos\WebProcessor\WebProcessor\obj\Debug\WebProcessor.csprojAssemblyReference.cache
+C:\Users\joao.ribeiro\source\repos\WebProcessor\WebProcessor\obj\Debug\WebProcessor.Properties.Resources.resources
+C:\Users\joao.ribeiro\source\repos\WebProcessor\WebProcessor\obj\Debug\WebProcessor.csproj.GenerateResource.cache
+C:\Users\joao.ribeiro\source\repos\WebProcessor\WebProcessor\obj\Debug\WebProcessor.csproj.CoreCompileInputs.cache
